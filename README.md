@@ -3,8 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaydenjlacombe&label=Profile%20views&color=0e75b6&style=flat" alt="jaydenjlacombe" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611cf075007a60c05d979938dcefa1053560fe42c2f&rid=giphy.gif&ct=g">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaydenjlacombe" alt="jaydenjlacombe" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/jaydenjlacombe" target="blank"><img src="https://img.shields.io/twitter/follow/jaydenjlacombe?logo=twitter&style=for-the-badge" alt="jaydenjlacombe" /></a> </p>
 
 - 🏫 Pursuing my Education at **McNeese State University**
